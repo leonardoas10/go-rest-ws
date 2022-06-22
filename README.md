@@ -1,8 +1,8 @@
-### REST & WS
+### REST & WS with golang
 
 ## Description
 
-App for practice Rest and WS, using libraries as:
+App for practice Rest and WS with golang, using libraries as:
 
 -   jwt
 -   mux
